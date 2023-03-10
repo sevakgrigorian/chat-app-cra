@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chat-app-cra/static/css/main.fb08c4b0.css",
+    "main.js": "/chat-app-cra/static/js/main.67988571.js",
+    "static/media/valley.jpeg": "/chat-app-cra/static/media/valley.e7396bfed7eb653279f1.jpeg",
+    "index.html": "/chat-app-cra/index.html",
+    "main.fb08c4b0.css.map": "/chat-app-cra/static/css/main.fb08c4b0.css.map",
+    "main.67988571.js.map": "/chat-app-cra/static/js/main.67988571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb08c4b0.css",
+    "static/js/main.67988571.js"
+  ]
+}
